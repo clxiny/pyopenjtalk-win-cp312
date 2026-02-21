@@ -24,6 +24,7 @@ To get native hardware acceleration on AMD cards via **ROCm 7.2 on Windows**, yo
 3. Run the following command:
 ```bash
 pip install pyopenjtalk-0.4.1-cp312-cp312-win_amd64.whl
+
 <h2 id="中文">🇨🇳 中文说明</h2>
 
 这是个什么玩意？
