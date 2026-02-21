@@ -46,4 +46,5 @@ pip install pyopenjtalk-0.4.1-cp312-cp312-win_amd64.whl
 打开你的命令行窗口（请确保已经激活了你的 Conda 或 Python 3.12 虚拟环境）。
 
 定位到文件所在的目录，直接运行以下命令秒杀报错：
+
 ``pip install pyopenjtalk-0.4.1-cp312-cp312-win_amd64.whl``
